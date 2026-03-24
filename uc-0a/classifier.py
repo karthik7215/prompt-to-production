@@ -2,6 +2,7 @@
 UC-0A — Complaint Classifier
 Starter file. Build this using the RICE → agents.md → skills.md → CRAFT workflow.
 """
+# UC-0A improvement: added severity keyword logic
 import argparse
 import csv
 
